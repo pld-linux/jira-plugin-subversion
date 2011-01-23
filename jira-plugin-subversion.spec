@@ -12,6 +12,7 @@ Source0:	http://maven.atlassian.com/contrib/com/atlassian/jira/plugin/ext/subver
 URL:		http://confluence.atlassian.com/display/JIRAEXT/JIRA+Subversion+plugin
 BuildRequires:	rpm-javaprov
 BuildRequires:	rpmbuild(macros) >= 1.300
+BuildRequires:	unzip
 Requires:	jira >= 4.1.1-2
 Obsoletes:	jira-enterprise-plugin-subversion
 BuildArch:	noarch
