@@ -1,5 +1,4 @@
 %define		plugin	subversion
-%include	/usr/lib/rpm/macros.java
 Summary:	JIRA Subversion plugin
 Name:		jira-plugin-%{plugin}
 Version:	0.10.5.2
